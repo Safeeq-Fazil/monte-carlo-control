@@ -1,4 +1,4 @@
-# MONTE CARLO CONTROL ALGORITHM
+# EXP 5 -MONTE CARLO CONTROL ALGORITHM
 
 ## AIM
 To develop a Python program to find the optimal policy for the given RL environment using the Monte Carlo algorithm.
